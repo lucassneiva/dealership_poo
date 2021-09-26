@@ -1,0 +1,4 @@
+-Sistema desenvolvido para atendimento de uma concessionária.
+-DHCarros precisa de um sistema onde possa admitir, pagar e verificar informações sobre seus funcionários.
+-Esses funcionários usam o sistema para atender seus clientes, realizando seus pedidos no sistema.
+-Sistema idealizado da maneira mais simples possível para suprir essas necessidades.
